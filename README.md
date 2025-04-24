@@ -53,12 +53,3 @@ Built for secure, real-time fraud detection using classification algorithms.
 - Precision: 97.47%
 - Recall: 78.57%
   
----
-
-## 🛠 Installation
-
-```bash
-git clone https://github.com/yourusername/credit-card-fraud-detection.git
-cd credit-card-fraud-detection
-pip install -r requirements.txt
-jupyter notebook  # or streamlit run app.py
