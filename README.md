@@ -44,19 +44,15 @@ Built for secure, real-time fraud detection using classification algorithms.
    - Confusion Matrix
    - ROC AUC
    - Precision/Recall
-5. (Optional) Deploy using Streamlit for live predictions
 
 ---
 
 ## 📊 Results
 - Best performing model: *[Insert model name]*
-- Accuracy: XX%
-- Precision: XX%
-- Recall: XX%
-- AUC-ROC: XX
-
-[Insert a confusion matrix or ROC curve image here]
-
+- Accuracy: 99.6%
+- Precision: 97.47%
+- Recall: 78.57%
+  
 ---
 
 ## 🛠 Installation
